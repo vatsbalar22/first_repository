@@ -1,1 +1,1 @@
-print('vats')
+print("vats")
